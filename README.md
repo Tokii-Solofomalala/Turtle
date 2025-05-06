@@ -11,8 +11,4 @@ Dessiner 4cercles concentriques - Tracer 8 lignes radiales pour former une étoi
   ```sh
   python --version
 
-🖥️ **comment le lancer**
-  git clone https://github.com/TonNomGitHub/Turtle-Ex1.git
 
-🖥️**Lancer le script**
-python turtle_ex1.py
